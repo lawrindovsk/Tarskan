@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gustavo\\Desktop\\Tarskan\\Tarskan\\Tarskan_tmp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D4DAC-EB5D-4FE4-89C9-C252EB941357}|DataTest\\DataTest.csproj|c:\\users\\gustavo\\desktop\\tarskan\\tarskan\\tarskan_tmp\\datatest\\user\\usertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5D4DAC-EB5D-4FE4-89C9-C252EB941357}|DataTest\\DataTest.csproj|solutionrelative:datatest\\user\\usertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C6D735-2086-422E-B4C0-CB63A313B506}|DataProcess\\DataProcess.csproj|c:\\users\\gustavo\\desktop\\tarskan\\tarskan\\tarskan_tmp\\dataprocess\\repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C6D735-2086-422E-B4C0-CB63A313B506}|DataProcess\\DataProcess.csproj|solutionrelative:dataprocess\\repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE81AD7-5A00-411B-A34D-9E32A600AFDB}|Database\\Database.csproj|c:\\users\\gustavo\\desktop\\tarskan\\tarskan\\tarskan_tmp\\database\\dcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE81AD7-5A00-411B-A34D-9E32A600AFDB}|Database\\Database.csproj|solutionrelative:database\\dcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserTest.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Tarskan\\Tarskan\\Tarskan_tmp\\DataTest\\User\\UserTest.cs",
+              "RelativeDocumentMoniker": "DataTest\\User\\UserTest.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Tarskan\\Tarskan\\Tarskan_tmp\\DataTest\\User\\UserTest.cs",
+              "RelativeToolTip": "DataTest\\User\\UserTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:06:34.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Tarskan\\Tarskan\\Tarskan_tmp\\Database\\DContext.cs",
+              "RelativeDocumentMoniker": "Database\\DContext.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Tarskan\\Tarskan\\Tarskan_tmp\\Database\\DContext.cs",
+              "RelativeToolTip": "Database\\DContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAvwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:11:55.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Tarskan\\Tarskan\\Tarskan_tmp\\DataProcess\\Repositories\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataProcess\\Repositories\\User\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Tarskan\\Tarskan\\Tarskan_tmp\\DataProcess\\Repositories\\User\\UserRepository.cs",
+              "RelativeToolTip": "DataProcess\\Repositories\\User\\UserRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:10:41.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
